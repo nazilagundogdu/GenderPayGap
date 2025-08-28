@@ -5,7 +5,12 @@
 ## Context & Motivation  
 The gender-based pay gap remains a persistent and well-documented issue in the U.S. Despite equal qualifications, experience, and education, women are consistently paid less than their male counterparts. According to the National Women’s Law Center (see figure below), the gap can be as wide as **74.9 cents per dollar earned by men**, in some states.
 
-![img](wage-gap-state)
+
+<p align="center">
+  <img src="wage-gap-state.png" alt="Alt text" width="700"/>
+</p>
+
+
 
 I firmly believe that every woman deserves to be paid her worth. Achieving that requires both awareness and access to tools—from salary negotiation strategies to career services. At the same time, systemic change is essential, such as advocating for **federal policies like mandatory pay transparency** in job postings.
 
